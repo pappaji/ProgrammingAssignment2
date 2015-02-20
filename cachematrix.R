@@ -1,5 +1,5 @@
 ## Caching the Inverse of Matrix
-## This program has two function ;
+## This program has two functions ;
 ##	1. Creates a matrix and caches its inverse. 
 ##	2. Recalls the inverse matrix from cache. 
 ##
